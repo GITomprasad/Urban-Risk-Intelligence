@@ -1,4 +1,8 @@
-# 🏙️ Urban Risk Intelligence
+# 🏙️ Urban Risk Intelligence ## 🚀 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://urban-risk-intelligence-ai.netlify.app)
+
+👉 **[Open Urban Risk Intelligence](https://urban-risk-intelligence-ai.netlify.app)**
 
 > An interactive data-driven platform for analyzing, visualizing, and communicating city-level risks through centralized urban intelligence.
 
