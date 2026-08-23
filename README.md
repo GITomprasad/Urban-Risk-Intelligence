@@ -137,7 +137,6 @@ B.Tech CSE Student | Data Science & Machine Learning Enthusiast
 ## 🤝 Contributors
 
 - **Om Prasad Sahoo** — Project development and implementation
-- **Smitika Panigrahi** — Contributor / Collaborator
 
 ## 📄 License
 
